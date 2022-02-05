@@ -1,1 +1,3 @@
-ÃÀÀöµÄÎ´À´
+ä½ å¥½ çº¢æœ
+hello world
+hello java
